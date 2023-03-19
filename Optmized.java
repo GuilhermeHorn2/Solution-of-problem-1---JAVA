@@ -30,7 +30,7 @@ public class main_misc {
 			if(v[i] == 1) {
 				continue;
 			}
-			//if v[i] == 1 the bit was fliped
+			//if v[i] == 0 the bit must be fliped
 			else {
 				c++;
 			}
